@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Packaged skills / archives
+*.skill
+*.zip
+
+# Env / secrets
+.env
+.env.*
